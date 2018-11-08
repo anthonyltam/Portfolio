@@ -2039,7 +2039,7 @@ input, select, textarea {
 			display: inline-block;
 			height: 1px;
 			margin-top: 1.5em;
-			width: 10em;
+			width: em;
 		}
 
 		header.major h2, header.major h3, header.major h4, header.major h5, header.major h6 {
